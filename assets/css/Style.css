@@ -24,7 +24,7 @@
   /* Body */
   body {
     font-family: sans-serif;
-    background-image: linear-gradient(to bottom, #ece8e16b , #0000006a);
+    background-image: linear-gradient(to bottom, #834b64ba , #ddcc1473);
     
   }
  
@@ -35,7 +35,7 @@
   
   /* Header */
   header {
-    background-image: linear-gradient(to bottom,#ece8e1, #00000032) ;
+    background-image: linear-gradient(to bottom,#f5e21b91,  #738) ;
     padding: 2px;
     border-radius: 2rem;
   }
@@ -89,26 +89,26 @@
   }
 
   #hero img{
-    width: 80%;
+    width: 100%;
     height: auto;
-    border-radius: 43%;
+    
     
   }
 
   #hero p{
-    font-size: 20px;
+    font-size: 14px;
     margin-right: 30px;
     position: relative;
     font-style: oblique;
   }
   
   #hero h2 {
-    font-size: 36px;
+    font-size: 20px;
     margin-bottom: 20px;
   }
 
   #hero h3 {
-    font-size: 25px;
+    font-size: 14px;
     font-style: oblique;
   }
 
@@ -154,7 +154,7 @@
   }
 
   #servicos img{
-    width: 71%;
+    width: 111%;
 
   }
   
